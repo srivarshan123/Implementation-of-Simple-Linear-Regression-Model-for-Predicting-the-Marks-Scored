@@ -52,7 +52,8 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored]()
+#### data head
+![simple linear regression model for predicting the marks scored](https://github.com/srivarshan123/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/datahead.jpeg)
 ![simple linear regression model for predicting the marks scored]()
 ![simple linear regression model for predicting the marks scored]()
 ![simple linear regression model for predicting the marks scored]()
