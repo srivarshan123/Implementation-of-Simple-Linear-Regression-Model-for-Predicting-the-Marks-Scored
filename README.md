@@ -52,11 +52,11 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](https://github.com/srivarshan123/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/WhatsApp%20Image%202022-05-09%20at%209.37.43%20AM.jpeg)
-![simple linear regression model for predicting the marks scored](https://github.com/srivarshan123/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/WhatsApp%20Image%202022-05-09%20at%209.37.43%20AM.jpeg)
-![simple linear regression model for predicting the marks scored](https://github.com/srivarshan123/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/WhatsApp%20Image%202022-05-09%20at%209.37.47%20AM%20(2).jpeg)
-![simple linear regression model for predicting the marks scored](https://github.com/srivarshan123/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/WhatsApp%20Image%202022-05-09%20at%209.37.47%20AM.jpeg)
-![simple linear regression model for predicting the marks scored](https://github.com/srivarshan123/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/WhatsApp%20Image%202022-05-09%20at%209.38.03%20AM.jpeg)
+![simple linear regression model for predicting the marks scored]()
+![simple linear regression model for predicting the marks scored]()
+![simple linear regression model for predicting the marks scored]()
+![simple linear regression model for predicting the marks scored]()
+![simple linear regression model for predicting the marks scored]()
 
 
 ## Result:
