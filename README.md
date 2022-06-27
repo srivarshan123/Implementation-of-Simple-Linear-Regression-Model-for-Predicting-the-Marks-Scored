@@ -18,9 +18,9 @@ To write a program to implement the simple linear regression model for predictin
 
 ## Program:
 /*
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: SriVarshan.S
-RegisterNumber:212221040163  
+Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+Developed by: Srivarshan.S 
+RegisterNumber: 212221040163 
 */
 ```
 import numpy as np
